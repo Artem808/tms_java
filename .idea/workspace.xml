@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f9e1fe5f-0762-422a-89b6-70ff339aa9e1" name="Default Changelist" comment="hw_4" />
+    <list default="true" id="f9e1fe5f-0762-422a-89b6-70ff339aa9e1" name="Default Changelist" comment="hw_4">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tms_java/hw_4/task_4/task_4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tms_java/hw_4/task_4/task_4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hw_4/task_4/task_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hw_4/task_4/task_4.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +45,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ComputerMain">
+  <component name="RunManager" selected="Application.task_4">
     <configuration name="ComputerMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hw_3.task_3.ComputerMain" />
       <module name="tms_java" />
@@ -107,17 +111,30 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="task_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw_4.task_4.task_4" />
+      <module name="tms_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hw_4.task_4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.task_2" />
       <item itemvalue="Application.task_3" />
       <item itemvalue="Application.main" />
-      <item itemvalue="Application.task_2 (1)" />
       <item itemvalue="Application.ComputerMain" />
+      <item itemvalue="Application.task_4" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.task_4" />
         <item itemvalue="Application.ComputerMain" />
-        <item itemvalue="Application.task_2 (1)" />
         <item itemvalue="Application.main" />
         <item itemvalue="Application.task_3" />
         <item itemvalue="Application.task_2" />
@@ -149,7 +166,21 @@
       <option name="project" value="LOCAL" />
       <updated>1568759228767</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="hw_4">
+      <created>1568759293036</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1568759293036</updated>
+    </task>
+    <task id="LOCAL-00004" summary="hw_4">
+      <created>1568759346035</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1568759346035</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -167,6 +198,12 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="hw_3" />
-    <option name="LAST_COMMIT_MESSAGE" value="hw_3" />
+    <MESSAGE value="hw_4" />
+    <option name="LAST_COMMIT_MESSAGE" value="hw_4" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/tms_java$ComputerMain.ic" NAME="ComputerMain Coverage Results" MODIFIED="1568821084441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>hw_3.task_3.*</FILTER>
+    </SUITE>
   </component>
 </project>
