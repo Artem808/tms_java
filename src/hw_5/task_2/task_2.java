@@ -2,10 +2,12 @@ package hw_5.task_2;
 
 import java.util.Arrays;
 
+// task_2 -> Task_2
 public class task_2 {
     public static void main(String[] args) {
         
         int[] num = toIntArr(args);
+        // если массив будет пустым, то будет исключение
         int min = num[0];
         int max = num[0];
         for (int i = 0; i < num.length; i++) {
