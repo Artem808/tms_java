@@ -5,7 +5,7 @@ public class task_3 {
         String elem = args[0];
         int elemNumber = Integer.parseInt(elem);
         for (int i = 0; i < elemNumber; i++) {
-            System.out.println("You are welcome!");
+            System.out.println("You are welcome!")
         }
     }
 }
