@@ -17,7 +17,7 @@ public class task_1 {
             if (i % 2 == 0) {
                 even = even + i;
             }
-            // думаю здесь else вполне достаточно
+            
             if (i % 2 != 0) {
                 odd = odd + i;
             }
