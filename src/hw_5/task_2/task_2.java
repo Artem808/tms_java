@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class task_2 {
     public static void main(String[] args) {
-        // num -> numbers
+        
         int[] num = toIntArr(args);
         int min = num[0];
         int max = num[0];
